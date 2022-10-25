@@ -1,0 +1,1 @@
+Una vez conectado el ESP32 al giroscopio, y obtiene nuestros valores con los seis tópicos creados, procedemos a obtener esos valores con python.
